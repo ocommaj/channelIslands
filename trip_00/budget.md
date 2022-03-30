@@ -10,9 +10,9 @@
 			Tips
 * Transport
 	* r/t Airfare 
-		* IAH-LAX: avg. fully refundable economy: 600
+		* IAH-LAX: avg. fully refundable economy: $600
 			30k mileagePlus r/t economy still avail
-		* IAH-SBA: avg. fully refundable economy: 800
+		* IAH-SBA: avg. fully refundable economy: $800
 			40-60k mileagePlus r/t
 	* Airport transfer & local transit:
 		* Rental Car: $458 compact suv, $580 Midsize pickup, 
